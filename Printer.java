@@ -1,4 +1,3 @@
- package hw1;
 /**
  * Creating a class called Printer, that creates a simple printer
  * @author kausshik
